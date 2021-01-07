@@ -13,7 +13,7 @@ const tambahan = require("./lib/tambahan.js")
 const donasi = require("./lib/donasi.js");
 const info = require("./lib/info.js");
 /////////////////
-const BotName = 'LIFE CRAFT BOT'; 
+const BotName = 'RofBot'; 
 const instagram = 'https://www.instagram.com/ff_devilsquad19/'; 
 const telegram = 'BLM AD'; 
 const kapanbotaktif = 'KETIKA HANYA DIAKTIFKAN'; 
